@@ -1,0 +1,15 @@
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\obj\Debug\net6.0\Seminar9HW.csproj.AssemblyReference.cache
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\obj\Debug\net6.0\Seminar9HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\obj\Debug\net6.0\Seminar9HW.AssemblyInfoInputs.cache
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\obj\Debug\net6.0\Seminar9HW.AssemblyInfo.cs
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\obj\Debug\net6.0\Seminar9HW.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\bin\Debug\net6.0\Seminar9HW.exe
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\bin\Debug\net6.0\Seminar9HW.deps.json
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\bin\Debug\net6.0\Seminar9HW.runtimeconfig.json
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\bin\Debug\net6.0\Seminar9HW.dll
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\bin\Debug\net6.0\Seminar9HW.pdb
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\obj\Debug\net6.0\Seminar9HW.dll
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\obj\Debug\net6.0\refint\Seminar9HW.dll
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\obj\Debug\net6.0\Seminar9HW.pdb
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\obj\Debug\net6.0\Seminar9HW.genruntimeconfig.cache
+C:\Users\Аня\Desktop\SeminarsC#\Seminar9HW\obj\Debug\net6.0\ref\Seminar9HW.dll
